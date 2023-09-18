@@ -40,5 +40,3 @@ The system allows users to perform the following actions:
 - This project is an individual exercise for a course.
 - The system includes a JavaFX graphical user interface (GUI) for user interaction.
 - Custom data structures and algorithms are used, with no reliance on existing Java collections or data structure classes.
-
-  Please refer to the project's code for detailed implementation and further instructions.
